@@ -10,6 +10,6 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-  base: '/teleprompter-example/',
+  base: '/teleprompter-app/',
 })
 
